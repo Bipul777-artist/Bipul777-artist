@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bipul777-artist
+- 👋 Hi, I’m Bipul Jha.
 - 👀 I’m interested in FrontEnd Development.
 - 🌱 I’m currently learning HTML, CSS, JS & React
 - 💞️ I’m looking to collaborate on front-end projects.
